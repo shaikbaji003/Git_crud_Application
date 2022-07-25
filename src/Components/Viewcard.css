@@ -1,0 +1,30 @@
+.viewcard1 {
+    background-color:hsla(225, 100%, 94%, 0.801) ;
+    width: 94vw;
+  height: 100vh;
+  position:fixed;
+  top: 10%;
+  border: 1px solid rgb(4, 4, 4);
+  
+}
+
+.img{
+    height: 400px;
+    width: 500px;
+    margin-left: 20px;
+    border-radius: 50%;
+  transform: scale(0.7);
+}
+
+.popup_data{
+float: left;
+justify-content: flex-start;
+align-items: flex-start;
+margin-top: 2%;
+    
+
+}
+.button{
+    float: right;
+    
+}

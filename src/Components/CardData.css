@@ -1,0 +1,33 @@
+.card {
+  margin: 10px;
+  width: 270px;
+  margin-top: 40px;
+  margin-left: 65px;
+  border-radius: 40px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.card:hover {
+  transform: scale(1.01);
+}
+
+.image {
+  border-radius: 50%;
+  transform: scale(0.7);
+}
+.tags {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btn {
+  background-color: hsl(245, 44%, 65%) !important;
+}
+
+
+.btn_view{
+    /* margin-right: 60%; */
+    color: red;
+}

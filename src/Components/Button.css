@@ -1,0 +1,6 @@
+.btn {
+  color: hsl(245, 44%, 65%) !important;
+  justify-content: space-around !important;
+  align-items: center !important;
+  /* padding-left: 400px !important; */
+}
